@@ -6,3 +6,4 @@ You will find me runinning the [Coded Craft Meetup](https://www.codecraftuk.org/
 
 ### Get in touch ☕
 * [Twitter](https://twitter.com/lost_semicolon)
+* [dev.to](https://dev.to/lost_semicolon)
